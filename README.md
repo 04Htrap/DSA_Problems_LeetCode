@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/04Htrap/DSA_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/04Htrap/DSA_Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/04Htrap/DSA_Problems/tree/master/0485-max-consecutive-ones) |
+| [0792-binary-search](https://github.com/04Htrap/DSA_Problems/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/04Htrap/DSA_Problems/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/04Htrap/DSA_Problems/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
