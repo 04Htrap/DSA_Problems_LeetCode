@@ -8,7 +8,7 @@ public:
     }
     bool isSpace(char ch){
         int ans = false;
-        if( ch == ' ' || ch == '\t' || ch == '\n' || ch == '\v' || ch == '\f' || ch == '\r')
+        if( ch == ' ' || ch == '\n')
             ans = true;
         return ans;
     }
