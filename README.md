@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/04Htrap/DSA_Problems/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/04Htrap/DSA_Problems/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/04Htrap/DSA_Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/04Htrap/DSA_Problems/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/04Htrap/DSA_Problems/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/04Htrap/DSA_Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/04Htrap/DSA_Problems/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -71,4 +73,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/04Htrap/DSA_Problems/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/04Htrap/DSA_Problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
