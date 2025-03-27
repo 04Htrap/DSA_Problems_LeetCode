@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/04Htrap/DSA_Problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/04Htrap/DSA_Problems/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/04Htrap/DSA_Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/04Htrap/DSA_Problems/tree/master/0189-rotate-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/04Htrap/DSA_Problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/04Htrap/DSA_Problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/04Htrap/DSA_Problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/04Htrap/DSA_Problems/tree/master/0231-power-of-two) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/04Htrap/DSA_Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/04Htrap/DSA_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/04Htrap/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/04Htrap/DSA_Problems/tree/master/0148-sort-list) |
