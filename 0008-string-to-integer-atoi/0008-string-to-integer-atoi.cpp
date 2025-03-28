@@ -1,8 +1,5 @@
 class Solution {
-public:
-    
-    
-    
+public: 
     int myAtoi(string s){
         long result = 0;
         int i = 0;
