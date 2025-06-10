@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/04Htrap/DSA_Problems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/04Htrap/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/04Htrap/DSA_Problems/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/04Htrap/DSA_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/04Htrap/DSA_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/04Htrap/DSA_Problems/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/04Htrap/DSA_Problems/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/04Htrap/DSA_Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/04Htrap/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/04Htrap/DSA_Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -163,4 +166,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/04Htrap/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/04Htrap/DSA_Problems/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
