@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/04Htrap/DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/04Htrap/DSA_Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/04Htrap/DSA_Problems/tree/master/0137-single-number-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/04Htrap/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/04Htrap/DSA_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/04Htrap/DSA_Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/04Htrap/DSA_Problems/tree/master/0268-missing-number) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/04Htrap/DSA_Problems/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/04Htrap/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/04Htrap/DSA_Problems/tree/master/0148-sort-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/04Htrap/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/04Htrap/DSA_Problems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/04Htrap/DSA_Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/04Htrap/DSA_Problems/tree/master/0283-move-zeroes) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/04Htrap/DSA_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/04Htrap/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/04Htrap/DSA_Problems/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/04Htrap/DSA_Problems/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/04Htrap/DSA_Problems/tree/master/1046-max-consecutive-ones-iii) |
