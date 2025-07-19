@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/04Htrap/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/04Htrap/DSA_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/04Htrap/DSA_Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/04Htrap/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/04Htrap/DSA_Problems/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/04Htrap/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/04Htrap/DSA_Problems/tree/master/0966-binary-subarrays-with-sum) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/04Htrap/DSA_Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/04Htrap/DSA_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/04Htrap/DSA_Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/04Htrap/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/04Htrap/DSA_Problems/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/04Htrap/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/04Htrap/DSA_Problems/tree/master/0008-string-to-integer-atoi) |
+| [0242-valid-anagram](https://github.com/04Htrap/DSA_Problems/tree/master/0242-valid-anagram) |
 ## Recursion
 |  |
 | ------- |
