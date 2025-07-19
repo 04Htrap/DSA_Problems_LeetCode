@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/04Htrap/DSA_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/04Htrap/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/04Htrap/DSA_Problems/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/04Htrap/DSA_Problems/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/04Htrap/DSA_Problems/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/04Htrap/DSA_Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Bit Manipulation
@@ -235,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/04Htrap/DSA_Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/04Htrap/DSA_Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/04Htrap/DSA_Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/04Htrap/DSA_Problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
