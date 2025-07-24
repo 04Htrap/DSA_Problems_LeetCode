@@ -250,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/04Htrap/DSA_Problems/tree/master/0278-first-bad-version) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/04Htrap/DSA_Problems/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
