@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/04Htrap/DSA_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/04Htrap/DSA_Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/04Htrap/DSA_Problems/tree/master/0485-max-consecutive-ones) |
+| [0542-01-matrix](https://github.com/04Htrap/DSA_Problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/04Htrap/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/04Htrap/DSA_Problems/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/04Htrap/DSA_Problems/tree/master/0792-binary-search) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/04Htrap/DSA_Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/04Htrap/DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/04Htrap/DSA_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/04Htrap/DSA_Problems/tree/master/0542-01-matrix) |
 ## Counting
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/04Htrap/DSA_Problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/04Htrap/DSA_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/04Htrap/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/04Htrap/DSA_Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/04Htrap/DSA_Problems/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/04Htrap/DSA_Problems/tree/master/1036-rotting-oranges) |
 ## Design
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/04Htrap/DSA_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/04Htrap/DSA_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0542-01-matrix](https://github.com/04Htrap/DSA_Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/04Htrap/DSA_Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/04Htrap/DSA_Problems/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/04Htrap/DSA_Problems/tree/master/1036-rotting-oranges) |
