@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/04Htrap/DSA_Problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/04Htrap/DSA_Problems/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/04Htrap/DSA_Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1036-rotting-oranges](https://github.com/04Htrap/DSA_Problems/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/04Htrap/DSA_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/04Htrap/DSA_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/04Htrap/DSA_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/04Htrap/DSA_Problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/04Htrap/DSA_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/04Htrap/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [1036-rotting-oranges](https://github.com/04Htrap/DSA_Problems/tree/master/1036-rotting-oranges) |
 ## Design
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/04Htrap/DSA_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/04Htrap/DSA_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/04Htrap/DSA_Problems/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/04Htrap/DSA_Problems/tree/master/1036-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
