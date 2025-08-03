@@ -3,55 +3,52 @@ public:
     int orangesRotting(vector<vector<int>>& grid) {
         int m = grid.size();
         int n = grid[0].size();
+        
         vector<vector<int>> visited = grid;
-
         queue<pair<int, int>> q;
         int cntFresh = 0;
 
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (visited[i][j] == 2) {
-                    q.push({i, j});
-                }
-                if (visited[i][j] == 1) {
+        for(int i = 0; i < m; i++){
+            for(int j = 0; j < n; j++){
+                if(visited[i][j] == 1){
                     cntFresh++;
+                }
+                if(visited[i][j] == 2){
+                    q.push({i, j});
                 }
             }
         }
 
-        if (cntFresh == 0)
-            return 0;
-        if (q.empty())
-            return -1;
+        if(cntFresh == 0) return 0;
+        if(q.empty()) return -1;
 
         int minutes = -1;
-        vector<pair<int, int>> dirs = {{1, 0}, {-1, 0}, {0, -1}, {0, 1}};
+        int delrow[] = {-1, 0, 1, 0};
+        int delcol[] = {0, 1, 0, -1};
 
-        while (!q.empty()) {
-            int size = q.size();
-            while (size--) {
-                pair<int, int> front = q.front();
+        while(!q.empty()){
+            int sz = q.size();
+            minutes++;
+
+            for(int i = 0; i < sz; i++){
+                int row = q.front().first;
+                int col = q.front().second;
                 q.pop();
-                int x = front.first;
-                int y = front.second;
 
-                for (int k = 0; k < 4; ++k) {
-                    int dx = dirs[k].first;
-                    int dy = dirs[k].second;
-                    int i = x + dx;
-                    int j = y + dy;
+                for(int d = 0; d < 4; d++){
+                    int nrow = row + delrow[d];
+                    int ncol = col + delcol[d];
 
-                    if (i >= 0 && i < m && j >= 0 && j < n && visited[i][j] == 1) {
-                        visited[i][j] = 2;
+                    if(nrow >= 0 && nrow < m && ncol >= 0 && ncol < n && visited[nrow][ncol] == 1){
+                        visited[nrow][ncol] = 2;
                         cntFresh--;
-                        q.push({i, j});
+                        q.push({nrow, ncol});          
                     }
                 }
             }
-            minutes++;
         }
 
-        if(cntFresh == 0) return minutes;
+        if(cntFresh == 0 )return minutes;
         else return -1;
     }
 };
