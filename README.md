@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/04Htrap/DSA_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/04Htrap/DSA_Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/04Htrap/DSA_Problems/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/04Htrap/DSA_Problems/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/04Htrap/DSA_Problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/04Htrap/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/04Htrap/DSA_Problems/tree/master/0733-flood-fill) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/04Htrap/DSA_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/04Htrap/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/04Htrap/DSA_Problems/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/04Htrap/DSA_Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/04Htrap/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/04Htrap/DSA_Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/04Htrap/DSA_Problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/04Htrap/DSA_Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/04Htrap/DSA_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/04Htrap/DSA_Problems/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/04Htrap/DSA_Problems/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -304,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/04Htrap/DSA_Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/04Htrap/DSA_Problems/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/04Htrap/DSA_Problems/tree/master/0820-find-eventual-safe-states) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/04Htrap/DSA_Problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
