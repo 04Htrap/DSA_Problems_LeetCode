@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/04Htrap/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/04Htrap/DSA_Problems/tree/master/0008-string-to-integer-atoi) |
 | [0242-valid-anagram](https://github.com/04Htrap/DSA_Problems/tree/master/0242-valid-anagram) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/04Htrap/DSA_Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Recursion
 |  |
 | ------- |
