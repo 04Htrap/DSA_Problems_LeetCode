@@ -1,9 +1,14 @@
 class Solution {
 public:
     bool isPowerOfFour(int n) {
-        if(n <= 0) return false;
-        if(n == 1) return true;
-        if (((n & (n - 1)) == 0) && ((n - 1) % 3 == 0)) return true;
-        return false;
+
+        if(n<=0) return false;
+        
+        long long t = (long long)log2(n)/2;
+
+        return pow(4,t)==n;
+
+
+
     }
 };
