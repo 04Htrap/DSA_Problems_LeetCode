@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/04Htrap/DSA_Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/04Htrap/DSA_Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/04Htrap/DSA_Problems/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/04Htrap/DSA_Problems/tree/master/0342-power-of-four) |
 | [1370-count-number-of-nice-subarrays](https://github.com/04Htrap/DSA_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 ## Hash Table
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/04Htrap/DSA_Problems/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/04Htrap/DSA_Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/04Htrap/DSA_Problems/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/04Htrap/DSA_Problems/tree/master/0342-power-of-four) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/04Htrap/DSA_Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/04Htrap/DSA_Problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/04Htrap/DSA_Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/04Htrap/DSA_Problems/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/04Htrap/DSA_Problems/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
