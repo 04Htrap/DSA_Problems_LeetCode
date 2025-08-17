@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/04Htrap/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/04Htrap/DSA_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/04Htrap/DSA_Problems/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/04Htrap/DSA_Problems/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/04Htrap/DSA_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/04Htrap/DSA_Problems/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/04Htrap/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/04Htrap/DSA_Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/04Htrap/DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/04Htrap/DSA_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/04Htrap/DSA_Problems/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/04Htrap/DSA_Problems/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/04Htrap/DSA_Problems/tree/master/0542-01-matrix) |
 ## Counting
