@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/04Htrap/DSA_Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/04Htrap/DSA_Problems/tree/master/0342-power-of-four) |
 | [1370-count-number-of-nice-subarrays](https://github.com/04Htrap/DSA_Problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1448-maximum-69-number](https://github.com/04Htrap/DSA_Problems/tree/master/1448-maximum-69-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -352,4 +353,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/04Htrap/DSA_Problems/tree/master/0410-split-array-largest-sum) |
+| [1448-maximum-69-number](https://github.com/04Htrap/DSA_Problems/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
