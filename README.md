@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/04Htrap/DSA_Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/04Htrap/DSA_Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/04Htrap/DSA_Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1628-count-submatrices-with-all-ones](https://github.com/04Htrap/DSA_Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/04Htrap/DSA_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/04Htrap/DSA_Problems/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/04Htrap/DSA_Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/04Htrap/DSA_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/04Htrap/DSA_Problems/tree/master/1628-count-submatrices-with-all-ones) |
 ## Counting
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/04Htrap/DSA_Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/04Htrap/DSA_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/04Htrap/DSA_Problems/tree/master/0503-next-greater-element-ii) |
+| [1628-count-submatrices-with-all-ones](https://github.com/04Htrap/DSA_Problems/tree/master/1628-count-submatrices-with-all-ones) |
 ## Tree
 |  |
 | ------- |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/04Htrap/DSA_Problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/04Htrap/DSA_Problems/tree/master/1073-number-of-enclaves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/04Htrap/DSA_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/04Htrap/DSA_Problems/tree/master/1628-count-submatrices-with-all-ones) |
 ## Design
 |  |
 | ------- |
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/04Htrap/DSA_Problems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/04Htrap/DSA_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/04Htrap/DSA_Problems/tree/master/0503-next-greater-element-ii) |
+| [1628-count-submatrices-with-all-ones](https://github.com/04Htrap/DSA_Problems/tree/master/1628-count-submatrices-with-all-ones) |
 ## Greedy
 |  |
 | ------- |
