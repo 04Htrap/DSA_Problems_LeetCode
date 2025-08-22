@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/04Htrap/DSA_Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1628-count-submatrices-with-all-ones](https://github.com/04Htrap/DSA_Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/04Htrap/DSA_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/04Htrap/DSA_Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/04Htrap/DSA_Problems/tree/master/1073-number-of-enclaves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/04Htrap/DSA_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/04Htrap/DSA_Problems/tree/master/1628-count-submatrices-with-all-ones) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/04Htrap/DSA_Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Design
 |  |
 | ------- |
