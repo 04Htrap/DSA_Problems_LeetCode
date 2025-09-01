@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/04Htrap/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/04Htrap/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/04Htrap/DSA_Problems/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/04Htrap/DSA_Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/04Htrap/DSA_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/04Htrap/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/04Htrap/DSA_Problems/tree/master/0268-missing-number) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/04Htrap/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/04Htrap/DSA_Problems/tree/master/0008-string-to-integer-atoi) |
 | [0151-reverse-words-in-a-string](https://github.com/04Htrap/DSA_Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/04Htrap/DSA_Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/04Htrap/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/04Htrap/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1078-remove-outermost-parentheses](https://github.com/04Htrap/DSA_Problems/tree/master/1078-remove-outermost-parentheses) |
