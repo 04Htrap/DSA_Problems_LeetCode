@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/04Htrap/DSA_Problems/tree/master/0008-string-to-integer-atoi) |
 | [0242-valid-anagram](https://github.com/04Htrap/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/04Htrap/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [1078-remove-outermost-parentheses](https://github.com/04Htrap/DSA_Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/04Htrap/DSA_Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/04Htrap/DSA_Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Recursion
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/04Htrap/DSA_Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/04Htrap/DSA_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/04Htrap/DSA_Problems/tree/master/0503-next-greater-element-ii) |
+| [1078-remove-outermost-parentheses](https://github.com/04Htrap/DSA_Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/04Htrap/DSA_Problems/tree/master/1628-count-submatrices-with-all-ones) |
 ## Tree
 |  |
