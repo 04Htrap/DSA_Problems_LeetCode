@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/04Htrap/DSA_Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/04Htrap/DSA_Problems/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/04Htrap/DSA_Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/04Htrap/DSA_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/04Htrap/DSA_Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/04Htrap/DSA_Problems/tree/master/1073-number-of-enclaves) |
 | [1370-count-number-of-nice-subarrays](https://github.com/04Htrap/DSA_Problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/04Htrap/DSA_Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/04Htrap/DSA_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/04Htrap/DSA_Problems/tree/master/0503-next-greater-element-ii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/04Htrap/DSA_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/04Htrap/DSA_Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/04Htrap/DSA_Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/04Htrap/DSA_Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/04Htrap/DSA_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/04Htrap/DSA_Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/04Htrap/DSA_Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/04Htrap/DSA_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/04Htrap/DSA_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/04Htrap/DSA_Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/04Htrap/DSA_Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/04Htrap/DSA_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Memoization
 |  |
 | ------- |
@@ -391,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/04Htrap/DSA_Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/04Htrap/DSA_Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/04Htrap/DSA_Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/04Htrap/DSA_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Interactive
 |  |
 | ------- |
@@ -432,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/04Htrap/DSA_Problems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/04Htrap/DSA_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/04Htrap/DSA_Problems/tree/master/0503-next-greater-element-ii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/04Htrap/DSA_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/04Htrap/DSA_Problems/tree/master/1628-count-submatrices-with-all-ones) |
 ## Greedy
 |  |
