@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/04Htrap/DSA_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1448-maximum-69-number](https://github.com/04Htrap/DSA_Problems/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/04Htrap/DSA_Problems/tree/master/2032-largest-odd-number-in-string) |
+| [3462-vowels-game-in-a-string](https://github.com/04Htrap/DSA_Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/04Htrap/DSA_Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/04Htrap/DSA_Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/04Htrap/DSA_Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3462-vowels-game-in-a-string](https://github.com/04Htrap/DSA_Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/04Htrap/DSA_Problems/tree/master/0319-bulb-switcher) |
+| [3462-vowels-game-in-a-string](https://github.com/04Htrap/DSA_Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -475,4 +478,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/04Htrap/DSA_Problems/tree/master/0014-longest-common-prefix) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/04Htrap/DSA_Problems/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
