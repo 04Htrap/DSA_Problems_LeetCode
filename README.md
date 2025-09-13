@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/04Htrap/DSA_Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/04Htrap/DSA_Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1628-count-submatrices-with-all-ones](https://github.com/04Htrap/DSA_Problems/tree/master/1628-count-submatrices-with-all-ones) |
+| [1659-get-the-maximum-score](https://github.com/04Htrap/DSA_Problems/tree/master/1659-get-the-maximum-score) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/04Htrap/DSA_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/04Htrap/DSA_Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Two Pointers
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/04Htrap/DSA_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/04Htrap/DSA_Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/04Htrap/DSA_Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1659-get-the-maximum-score](https://github.com/04Htrap/DSA_Problems/tree/master/1659-get-the-maximum-score) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/04Htrap/DSA_Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/04Htrap/DSA_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/04Htrap/DSA_Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/04Htrap/DSA_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/04Htrap/DSA_Problems/tree/master/1628-count-submatrices-with-all-ones) |
+| [1659-get-the-maximum-score](https://github.com/04Htrap/DSA_Problems/tree/master/1659-get-the-maximum-score) |
 ## Counting
 |  |
 | ------- |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/04Htrap/DSA_Problems/tree/master/0621-task-scheduler) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/04Htrap/DSA_Problems/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1448-maximum-69-number](https://github.com/04Htrap/DSA_Problems/tree/master/1448-maximum-69-number) |
+| [1659-get-the-maximum-score](https://github.com/04Htrap/DSA_Problems/tree/master/1659-get-the-maximum-score) |
 | [2032-largest-odd-number-in-string](https://github.com/04Htrap/DSA_Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Combinatorics
 |  |
