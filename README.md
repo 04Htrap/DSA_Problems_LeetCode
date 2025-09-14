@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/04Htrap/DSA_Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/04Htrap/DSA_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/04Htrap/DSA_Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/04Htrap/DSA_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/04Htrap/DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/04Htrap/DSA_Problems/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/04Htrap/DSA_Problems/tree/master/1034-subarrays-with-k-different-integers) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/04Htrap/DSA_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/04Htrap/DSA_Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/04Htrap/DSA_Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3462-vowels-game-in-a-string](https://github.com/04Htrap/DSA_Problems/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/04Htrap/DSA_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Recursion
 |  |
 | ------- |
