@@ -5,20 +5,20 @@ public:
             return 0;
         }
 
-        int maxlen = 0;
-        unordered_set<int> check_dupli;
+        int maxLen = 0;
+        unordered_set<int> dupli_checker;
 
         int left = 0;
-        for(int right = 0; right < s.length(); right++){
-            if(check_dupli.find(s[right]) != check_dupli.end()){
-                while (left < right && check_dupli.find(s[right]) != check_dupli.end()){
-                    check_dupli.erase(s[left]);
+        for(int right = 0; right < s.size(); right++){
+            if(dupli_checker.find(s[right]) != dupli_checker.end()) {
+                while(left < right && dupli_checker.find(s[right]) != dupli_checker.end()) {
+                    dupli_checker.erase(s[left]);
                     left++;
-                }  
+                }
             }
-            check_dupli.insert(s[right]);
-            maxlen = max(maxlen, right - left + 1);
+            dupli_checker.insert(s[right]);
+            maxLen = max(maxLen, right - left + 1);
         }
-        return maxlen;
+        return maxLen;
     }
 };
