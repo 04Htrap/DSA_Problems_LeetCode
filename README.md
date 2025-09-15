@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/04Htrap/DSA_Problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/04Htrap/DSA_Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/04Htrap/DSA_Problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/04Htrap/DSA_Problems/tree/master/0062-unique-paths) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/04Htrap/DSA_Problems/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/04Htrap/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/04Htrap/DSA_Problems/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/04Htrap/DSA_Problems/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/04Htrap/DSA_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/04Htrap/DSA_Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/04Htrap/DSA_Problems/tree/master/0242-valid-anagram) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/04Htrap/DSA_Problems/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/04Htrap/DSA_Problems/tree/master/0494-target-sum) |
 ## Heap (Priority Queue)
 |  |
