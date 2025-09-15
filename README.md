@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/04Htrap/DSA_Problems/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/04Htrap/DSA_Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/04Htrap/DSA_Problems/tree/master/0967-minimum-falling-path-sum) |
+| [1014-k-closest-points-to-origin](https://github.com/04Htrap/DSA_Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/04Htrap/DSA_Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/04Htrap/DSA_Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/04Htrap/DSA_Problems/tree/master/1036-rotting-oranges) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/04Htrap/DSA_Problems/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/04Htrap/DSA_Problems/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/04Htrap/DSA_Problems/tree/master/0342-power-of-four) |
+| [1014-k-closest-points-to-origin](https://github.com/04Htrap/DSA_Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/04Htrap/DSA_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1448-maximum-69-number](https://github.com/04Htrap/DSA_Problems/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/04Htrap/DSA_Problems/tree/master/2032-largest-odd-number-in-string) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/04Htrap/DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/04Htrap/DSA_Problems/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/04Htrap/DSA_Problems/tree/master/0621-task-scheduler) |
+| [1014-k-closest-points-to-origin](https://github.com/04Htrap/DSA_Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/04Htrap/DSA_Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/04Htrap/DSA_Problems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/04Htrap/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/04Htrap/DSA_Problems/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/04Htrap/DSA_Problems/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -501,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/04Htrap/DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/04Htrap/DSA_Problems/tree/master/0621-task-scheduler) |
+| [1014-k-closest-points-to-origin](https://github.com/04Htrap/DSA_Problems/tree/master/1014-k-closest-points-to-origin) |
 ## Trie
 |  |
 | ------- |
@@ -517,4 +522,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/04Htrap/DSA_Problems/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/04Htrap/DSA_Problems/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/04Htrap/DSA_Problems/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
