@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/04Htrap/DSA_Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1659-get-the-maximum-score](https://github.com/04Htrap/DSA_Problems/tree/master/1659-get-the-maximum-score) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/04Htrap/DSA_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2294-minimum-time-to-complete-trips](https://github.com/04Htrap/DSA_Problems/tree/master/2294-minimum-time-to-complete-trips) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/04Htrap/DSA_Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/04Htrap/DSA_Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Two Pointers
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/04Htrap/DSA_Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/04Htrap/DSA_Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/04Htrap/DSA_Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2294-minimum-time-to-complete-trips](https://github.com/04Htrap/DSA_Problems/tree/master/2294-minimum-time-to-complete-trips) |
 ## Bit Manipulation
 |  |
 | ------- |
