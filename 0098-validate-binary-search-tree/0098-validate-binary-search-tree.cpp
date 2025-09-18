@@ -11,23 +11,15 @@
  */
 class Solution {
 public:
-    void inorder(TreeNode*root, vector<int>& elements) {
-        if(root == nullptr) return;
+    bool isValid(TreeNode* root, long long maxVal, long long minVal) {
+        if(root == nullptr) return true;
+        if(root->val >= maxVal || root->val <= minVal) return false;
+        bool leftValid = isValid(root->left, root->val, minVal);
+        bool rightValid = isValid(root->right, maxVal, root->val);
 
-        inorder(root->left, elements);
-        elements.push_back(root->val);
-        inorder(root->right, elements);
+        return leftValid && rightValid;
     }
     bool isValidBST(TreeNode* root) {
-        vector<int> elements;
-        inorder(root, elements);
-
-        for (int i = 1; i < elements.size(); i++) {
-            if (elements[i] <= elements[i - 1]) {
-                return false;
-            }
-        }
-
-        return true;
+        return isValid(root, LLONG_MAX, LLONG_MIN);
     }
 };
