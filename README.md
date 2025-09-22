@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/04Htrap/DSA_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2294-minimum-time-to-complete-trips](https://github.com/04Htrap/DSA_Problems/tree/master/2294-minimum-time-to-complete-trips) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/04Htrap/DSA_Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/04Htrap/DSA_Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/04Htrap/DSA_Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Two Pointers
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/04Htrap/DSA_Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1370-count-number-of-nice-subarrays](https://github.com/04Htrap/DSA_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/04Htrap/DSA_Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/04Htrap/DSA_Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/04Htrap/DSA_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/04Htrap/DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/04Htrap/DSA_Problems/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/04Htrap/DSA_Problems/tree/master/1034-subarrays-with-k-different-integers) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/04Htrap/DSA_Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/04Htrap/DSA_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
