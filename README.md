@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/04Htrap/DSA_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/04Htrap/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/04Htrap/DSA_Problems/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/04Htrap/DSA_Problems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/04Htrap/DSA_Problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/04Htrap/DSA_Problems/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/04Htrap/DSA_Problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/04Htrap/DSA_Problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/04Htrap/DSA_Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/04Htrap/DSA_Problems/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/04Htrap/DSA_Problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/04Htrap/DSA_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/04Htrap/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/04Htrap/DSA_Problems/tree/master/0268-missing-number) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/04Htrap/DSA_Problems/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/04Htrap/DSA_Problems/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/04Htrap/DSA_Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/04Htrap/DSA_Problems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/04Htrap/DSA_Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/04Htrap/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/04Htrap/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/04Htrap/DSA_Problems/tree/master/0135-candy) |
+| [0179-largest-number](https://github.com/04Htrap/DSA_Problems/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/04Htrap/DSA_Problems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/04Htrap/DSA_Problems/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/04Htrap/DSA_Problems/tree/master/0621-task-scheduler) |
