@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/04Htrap/DSA_Problems/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/04Htrap/DSA_Problems/tree/master/0342-power-of-four) |
 | [1014-k-closest-points-to-origin](https://github.com/04Htrap/DSA_Problems/tree/master/1014-k-closest-points-to-origin) |
+| [1195-distribute-candies-to-people](https://github.com/04Htrap/DSA_Problems/tree/master/1195-distribute-candies-to-people) |
 | [1370-count-number-of-nice-subarrays](https://github.com/04Htrap/DSA_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1448-maximum-69-number](https://github.com/04Htrap/DSA_Problems/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/04Htrap/DSA_Problems/tree/master/2032-largest-odd-number-in-string) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/04Htrap/DSA_Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/04Htrap/DSA_Problems/tree/master/0059-spiral-matrix-ii) |
+| [1195-distribute-candies-to-people](https://github.com/04Htrap/DSA_Problems/tree/master/1195-distribute-candies-to-people) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/04Htrap/DSA_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
