@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/04Htrap/DSA_Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/04Htrap/DSA_Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/04Htrap/DSA_Problems/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/04Htrap/DSA_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/04Htrap/DSA_Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/04Htrap/DSA_Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/04Htrap/DSA_Problems/tree/master/1036-rotting-oranges) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/04Htrap/DSA_Problems/tree/master/0342-power-of-four) |
 | [0830-largest-triangle-area](https://github.com/04Htrap/DSA_Problems/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/04Htrap/DSA_Problems/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/04Htrap/DSA_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1195-distribute-candies-to-people](https://github.com/04Htrap/DSA_Problems/tree/master/1195-distribute-candies-to-people) |
 | [1370-count-number-of-nice-subarrays](https://github.com/04Htrap/DSA_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1448-maximum-69-number](https://github.com/04Htrap/DSA_Problems/tree/master/1448-maximum-69-number) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/04Htrap/DSA_Problems/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/04Htrap/DSA_Problems/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/04Htrap/DSA_Problems/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/04Htrap/DSA_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/04Htrap/DSA_Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/04Htrap/DSA_Problems/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/04Htrap/DSA_Problems/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/04Htrap/DSA_Problems/tree/master/0621-task-scheduler) |
+| [1018-largest-perimeter-triangle](https://github.com/04Htrap/DSA_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/04Htrap/DSA_Problems/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1448-maximum-69-number](https://github.com/04Htrap/DSA_Problems/tree/master/1448-maximum-69-number) |
 | [1659-get-the-maximum-score](https://github.com/04Htrap/DSA_Problems/tree/master/1659-get-the-maximum-score) |
