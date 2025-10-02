@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/04Htrap/DSA_Problems/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/04Htrap/DSA_Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/04Htrap/DSA_Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3336-water-bottles-ii](https://github.com/04Htrap/DSA_Problems/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/04Htrap/DSA_Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Hash Table
 |  |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1195-distribute-candies-to-people](https://github.com/04Htrap/DSA_Problems/tree/master/1195-distribute-candies-to-people) |
 | [1642-water-bottles](https://github.com/04Htrap/DSA_Problems/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/04Htrap/DSA_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3336-water-bottles-ii](https://github.com/04Htrap/DSA_Problems/tree/master/3336-water-bottles-ii) |
 ## Stack
 |  |
 | ------- |
