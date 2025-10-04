@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/04Htrap/DSA_Problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/04Htrap/DSA_Problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/04Htrap/DSA_Problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/04Htrap/DSA_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/04Htrap/DSA_Problems/tree/master/0033-search-in-rotated-sorted-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/04Htrap/DSA_Problems/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/04Htrap/DSA_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/04Htrap/DSA_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/04Htrap/DSA_Problems/tree/master/0042-trapping-rain-water) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/04Htrap/DSA_Problems/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/04Htrap/DSA_Problems/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/04Htrap/DSA_Problems/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/04Htrap/DSA_Problems/tree/master/0410-split-array-largest-sum) |
