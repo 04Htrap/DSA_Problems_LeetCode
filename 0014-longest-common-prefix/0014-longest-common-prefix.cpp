@@ -5,9 +5,7 @@ public:
 
         string pref = strs[0];
         for(int i = 0; i < strs.size(); i++) {
-            while(strs[i].find(pref) != 0) {
-                pref.pop_back();
-            }
+            while(strs[i].find(pref) != 0) pref.pop_back();
         }
         return pref;
     }
