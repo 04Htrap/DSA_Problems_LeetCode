@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/04Htrap/DSA_Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1628-count-submatrices-with-all-ones](https://github.com/04Htrap/DSA_Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1659-get-the-maximum-score](https://github.com/04Htrap/DSA_Problems/tree/master/1659-get-the-maximum-score) |
+| [1711-count-good-meals](https://github.com/04Htrap/DSA_Problems/tree/master/1711-count-good-meals) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/04Htrap/DSA_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2294-minimum-time-to-complete-trips](https://github.com/04Htrap/DSA_Problems/tree/master/2294-minimum-time-to-complete-trips) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/04Htrap/DSA_Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/04Htrap/DSA_Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1370-count-number-of-nice-subarrays](https://github.com/04Htrap/DSA_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/04Htrap/DSA_Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1711-count-good-meals](https://github.com/04Htrap/DSA_Problems/tree/master/1711-count-good-meals) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/04Htrap/DSA_Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/04Htrap/DSA_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
