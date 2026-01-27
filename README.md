@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/04Htrap/DSA_Problems/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/04Htrap/DSA_Problems/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/04Htrap/DSA_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0876-middle-of-the-linked-list](https://github.com/04Htrap/DSA_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/04Htrap/DSA_Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/04Htrap/DSA_Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1659-get-the-maximum-score](https://github.com/04Htrap/DSA_Problems/tree/master/1659-get-the-maximum-score) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/04Htrap/DSA_Problems/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/04Htrap/DSA_Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/04Htrap/DSA_Problems/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/04Htrap/DSA_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/04Htrap/DSA_Problems/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/04Htrap/DSA_Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Merge Sort
