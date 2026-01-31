@@ -6,6 +6,8 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
+
+ //TIME COMPLEXITY O(n)
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
