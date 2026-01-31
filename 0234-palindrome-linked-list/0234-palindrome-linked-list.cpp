@@ -8,49 +8,45 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
+ //TIME COMPLEXITY O(n)
+ 
 class Solution {
 public:
+    ListNode* reverseList(ListNode* node) {
+        ListNode* prev = nullptr;
+        ListNode* curr = node;
 
-    ListNode* reverseList(ListNode* head) {
-        if(head == nullptr || head -> next == nullptr){
-            return head;
+        while(curr != nullptr) {
+            ListNode* temp = curr -> next;
+            curr -> next = prev;
+            prev = curr;
+            curr = temp;
         }
-        ListNode* newHead = reverseList(head -> next);
-        ListNode* front = head -> next;
-        front -> next = head;
-        head -> next = nullptr;
 
-        return newHead;
+        return prev;
+
     }
-
     bool isPalindrome(ListNode* head) {
-        if(head == nullptr || head -> next == nullptr){
-            return true;
-        }
-
         ListNode* slow = head;
         ListNode* fast = head;
 
-        while(fast != nullptr && fast -> next != nullptr){
+        while(fast != nullptr && fast -> next != nullptr) {
             slow = slow -> next;
-            fast = fast -> next -> next;
+            fast = fast->next-> next;
         }
 
-        ListNode* secondHalf = reverseList(slow);
+        ListNode* head1 = head; //First Half
+        ListNode* head2 = reverseList(slow); //Second Half
 
-        ListNode* first = head;
-        ListNode* second = secondHalf;
-
-        bool Palin = true;
-        while (second != nullptr){
-            if(first -> val != second -> val){
-                Palin = false;
-                return Palin;
+        while(head2 != nullptr) {
+            if(head1 -> val != head2 -> val) {
+                return false;
                 break;
             }
-            first = first -> next;
-            second = second -> next;
+            head1 = head1 -> next;
+            head2 = head2 -> next;
         }
-        return Palin;
+        return true;
     }
 };
