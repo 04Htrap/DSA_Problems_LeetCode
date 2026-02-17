@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/04Htrap/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/04Htrap/DSA_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/04Htrap/DSA_Problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/04Htrap/DSA_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/04Htrap/DSA_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/04Htrap/DSA_Problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/04Htrap/DSA_Problems/tree/master/0347-top-k-frequent-elements) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/04Htrap/DSA_Problems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/04Htrap/DSA_Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/04Htrap/DSA_Problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/04Htrap/DSA_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/04Htrap/DSA_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/04Htrap/DSA_Problems/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/04Htrap/DSA_Problems/tree/master/0611-valid-triangle-number) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/04Htrap/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/04Htrap/DSA_Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/04Htrap/DSA_Problems/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/04Htrap/DSA_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/04Htrap/DSA_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/04Htrap/DSA_Problems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/04Htrap/DSA_Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/04Htrap/DSA_Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/04Htrap/DSA_Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/04Htrap/DSA_Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/04Htrap/DSA_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/04Htrap/DSA_Problems/tree/master/0342-power-of-four) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/04Htrap/DSA_Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Sorting
