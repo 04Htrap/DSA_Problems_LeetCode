@@ -6,6 +6,7 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
+ //TIME COMPLEXITY O(1)
 class Solution {
 public:
     void deleteNode(ListNode* node) {
@@ -15,5 +16,3 @@ public:
         node->next = node->next->next;
     }
 };
-
-//Time Complexity O(1)
