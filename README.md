@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/04Htrap/DSA_Problems/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/04Htrap/DSA_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/04Htrap/DSA_Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/04Htrap/DSA_Problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/04Htrap/DSA_Problems/tree/master/0206-reverse-linked-list) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/04Htrap/DSA_Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/04Htrap/DSA_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/04Htrap/DSA_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/04Htrap/DSA_Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/04Htrap/DSA_Problems/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/04Htrap/DSA_Problems/tree/master/0141-linked-list-cycle) |
