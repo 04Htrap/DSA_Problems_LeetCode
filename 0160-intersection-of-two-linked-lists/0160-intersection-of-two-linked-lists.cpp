@@ -6,26 +6,48 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
+ //TIME COMPLEXITY O(max(m,n))
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        ListNode* dummy1 = headA;
-        ListNode* dummy2 = headB;
+        ListNode* p1 = headA;
+        ListNode* p2 = headB;
 
-        while(dummy1 != dummy2) {
-            if(dummy1 == nullptr) {
-                dummy1 = headB;
-            }
-            else dummy1 = dummy1 -> next;
+        int len1 = 0;
+        int len2 = 0;
 
-            if(dummy2 == nullptr) {
-                dummy2 = headA;
+        while(p1 != nullptr || p2 != nullptr) {
+            if(p1 != nullptr) {
+                len1++;
+                p1 = p1 -> next;
             }
-            else dummy2 = dummy2 -> next;
+            if(p2 != nullptr) {
+                len2++;
+                p2 = p2 -> next;
+            }
         }
-        
-        return dummy2;
+
+        int diff = len1 - len2;
+        p1 = headA;
+        p2 = headB;
+
+        if(diff < 0) {
+            for(int i = diff; i < 0; i++) {
+                p2 = p2 -> next;
+            }
+        }
+        else {
+            for(int i = diff; i > 0; i--) {
+                p1 = p1 -> next;
+            }
+        }
+
+        while(p1 != nullptr && p2 != nullptr) {
+            if(p1 == p2) return p1;
+            p1 = p1 -> next;
+            p2 = p2 -> next;
+        }
+
+        return p1;
     }
 };
-
-//Time Complexity O(N + M)
