@@ -8,40 +8,32 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
- //TIME COMPLEXITY O(n)
 class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
-        if(head == nullptr || head -> next == nullptr || k == 0)
+        if(head == nullptr || head -> next == nullptr || k == 0) {
             return head;
+        }
 
-        ListNode* temp = head;
         int len = 1;
+        ListNode* tail = head;
 
-        while(temp -> next != nullptr) {
+        while(tail -> next != nullptr) {
             len++;
-            temp = temp -> next;
+            tail = tail -> next;
         }
-
+        
+        tail -> next = head;
         k = k % len;
-        if(k == 0) return head;
 
-        ListNode* slow = head;
-        ListNode* fast = head;
-
-        for(int i = 0; i < k; i++) {
-            fast = fast -> next;
+        int steps = len - k;
+        ListNode* newTail = head;
+        for(int i = 1; i < steps; i++) {
+            newTail = newTail -> next;
         }
 
-        while (fast->next != NULL) {
-            slow = slow->next;
-            fast = fast->next;
-        }
-
-        ListNode* newHead = slow -> next;
-        slow -> next = nullptr;
-        fast -> next = head;
+        ListNode* newHead = newTail -> next;
+        newTail -> next = nullptr;
 
         return newHead;
     }
