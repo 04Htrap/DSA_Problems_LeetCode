@@ -1,5 +1,7 @@
 class Solution {
 public: 
+    //TIME COMPLEXITY O(n)
+    //SPACE COMPLEXITY O(1)
     int myAtoi(string s){
         long result = 0;
         int i = 0;
