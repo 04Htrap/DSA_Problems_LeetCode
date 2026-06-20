@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/04Htrap/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/04Htrap/DSA_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/04Htrap/DSA_Problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/04Htrap/DSA_Problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/04Htrap/DSA_Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/04Htrap/DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/04Htrap/DSA_Problems/tree/master/0130-surrounded-regions) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/04Htrap/DSA_Problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/04Htrap/DSA_Problems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/04Htrap/DSA_Problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/04Htrap/DSA_Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/04Htrap/DSA_Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/04Htrap/DSA_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/04Htrap/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/04Htrap/DSA_Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/04Htrap/DSA_Problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/04Htrap/DSA_Problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/04Htrap/DSA_Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/04Htrap/DSA_Problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/04Htrap/DSA_Problems/tree/master/0179-largest-number) |
