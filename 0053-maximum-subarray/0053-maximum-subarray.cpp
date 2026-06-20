@@ -1,19 +1,19 @@
 class Solution {
 public:
+    //TIME COMPLEXITY O(n)
+    //SPACE COMPLEIXTY O(1)
     int maxSubArray(vector<int>& nums) {
         int sum = 0;
-        int maxi = INT_MIN;
+        int max_sum = INT_MIN;
 
-        for(int i = 0; i < nums.size(); i++){
+        for(int i = 0; i < nums.size(); i++) {
             sum += nums[i];
-            if(sum > maxi){
-                maxi = sum;
-            }
-
-            if(sum < 0){
+            if(sum > max_sum) 
+                max_sum = sum;
+            
+            if(sum < 0) 
                 sum = 0;
-            }
         }
-        return maxi;
+        return max_sum;
     }
 };
