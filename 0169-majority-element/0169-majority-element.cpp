@@ -1,5 +1,7 @@
 class Solution {
 public:
+    //TIME COMPLEXITY O(n)
+    //SPACE COMPLECOTY O(1)
     int majorityElement(vector<int>& nums) {
         int element = 0;
         int count = 0;
