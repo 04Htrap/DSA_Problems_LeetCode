@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/04Htrap/DSA_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2294-minimum-time-to-complete-trips](https://github.com/04Htrap/DSA_Problems/tree/master/2294-minimum-time-to-complete-trips) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/04Htrap/DSA_Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/04Htrap/DSA_Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/04Htrap/DSA_Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/04Htrap/DSA_Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Two Pointers
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/04Htrap/DSA_Problems/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/04Htrap/DSA_Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/04Htrap/DSA_Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/04Htrap/DSA_Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3336-water-bottles-ii](https://github.com/04Htrap/DSA_Problems/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/04Htrap/DSA_Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Hash Table
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/04Htrap/DSA_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/04Htrap/DSA_Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1711-count-good-meals](https://github.com/04Htrap/DSA_Problems/tree/master/1711-count-good-meals) |
+| [2965-find-missing-and-repeated-values](https://github.com/04Htrap/DSA_Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/04Htrap/DSA_Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/04Htrap/DSA_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/04Htrap/DSA_Problems/tree/master/1073-number-of-enclaves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/04Htrap/DSA_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/04Htrap/DSA_Problems/tree/master/1628-count-submatrices-with-all-ones) |
+| [2965-find-missing-and-repeated-values](https://github.com/04Htrap/DSA_Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/04Htrap/DSA_Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Design
 |  |
