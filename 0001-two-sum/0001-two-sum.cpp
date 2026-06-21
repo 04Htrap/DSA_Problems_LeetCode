@@ -1,20 +1,15 @@
 class Solution {
 public:
+    //TIME COMPLEXITY O(n)
+    //SPACE COMPLEXITY O(n)
     vector<int> twoSum(vector<int>& nums, int target) {
-        vector<pair<int, int> > numsIndex;
-        for(int i = 0; i < nums.size(); i++){
-            numsIndex.push_back({nums[i], i});
-        }
+        unordered_map<int, int> mp;
 
-        sort(numsIndex.begin(), numsIndex.end());
-        int left = 0, right = numsIndex.size()-1;
-        while (left < right) {
-            int sum = numsIndex[left].first + numsIndex[right].first;
-            if (sum == target) {
-                return {numsIndex[left].second, numsIndex[right].second};
-            }
-            else if (sum < target) left++;
-            else right--;
+        for(int i = 0; i < nums.size(); i++) {
+            int needed = target - nums[i];
+            if(mp.find(needed) != mp.end())
+                return{mp[needed], i};
+            mp[nums[i]] = i;
         }
         return {};
     }
