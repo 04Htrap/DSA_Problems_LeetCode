@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/04Htrap/DSA_Problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/04Htrap/DSA_Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/04Htrap/DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/04Htrap/DSA_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/04Htrap/DSA_Problems/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/04Htrap/DSA_Problems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/04Htrap/DSA_Problems/tree/master/0136-single-number) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/04Htrap/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/04Htrap/DSA_Problems/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/04Htrap/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/04Htrap/DSA_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/04Htrap/DSA_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/04Htrap/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/04Htrap/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -673,4 +675,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/04Htrap/DSA_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/04Htrap/DSA_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/04Htrap/DSA_Problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
