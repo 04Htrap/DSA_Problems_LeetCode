@@ -9,22 +9,19 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
- //Time Complexity O(n) because we visit every node once
 class Solution {
 public:
-    void inorder(TreeNode* root, vector<int> &ans) {
+    void inorder(vector<int> &ans, TreeNode* root) {
         if(root == nullptr)
             return;
         
-        inorder(root->left, ans);
-        ans.push_back(root->val);
-        inorder(root->right, ans);
+        inorder(ans, root -> left);
+        ans.push_back(root -> val);
+        inorder(ans, root -> right);
     }
-
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> ans;
-        inorder(root, ans);
+        inorder(ans, root);
         return ans;
     }
 };
