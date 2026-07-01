@@ -9,27 +9,30 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+ //TIME COMPLEXITY O(n)
+ //SPACE COMPLEXITY O(n)
 class Solution {
 public:
     vector<int> rightSideView(TreeNode* root) {
-        vector<int> res;
-        if(root == nullptr) return res;
-
+        vector<int> ans;
         queue<TreeNode*> q;
+        if(root == nullptr)
+            return ans;
+        
         q.push(root);
-
         while(!q.empty()) {
             int size = q.size();
             for(int i = 0; i < size; i++) {
                 TreeNode* temp = q.front();
                 q.pop();
 
-                if(i == size - 1) res.push_back(temp->val);
-
-                if(temp->left) q.push(temp->left);
-                if(temp->right) q.push(temp->right);
+                if(i == size - 1) ans.push_back(temp -> val);
+                if(temp -> left)
+                    q.push(temp -> left);
+                if(temp -> right)
+                    q.push(temp -> right);
             }
         }
-        return res;
+        return ans;
     }
 };
