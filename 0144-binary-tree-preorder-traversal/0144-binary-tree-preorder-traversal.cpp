@@ -13,7 +13,8 @@ class Solution {
 public:
 
     void preorder(TreeNode* root, vector<int> &ans){
-        if(root == NULL) return;
+        if(root == nullptr) 
+            return;
 
         ans.push_back(root -> val);
         preorder(root->left, ans);
