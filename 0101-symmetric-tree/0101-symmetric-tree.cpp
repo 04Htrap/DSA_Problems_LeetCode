@@ -11,14 +11,17 @@
  */
 class Solution {
 public:
-    bool isValid(TreeNode* p, TreeNode* q) {
+    bool checkSymmetric(TreeNode* p, TreeNode* q) {
         if(p == nullptr && q == nullptr) return true;
         if(p == nullptr || q == nullptr) return false;
 
-        return(p->val == q->val) && isValid(p->left, q-> right) && isValid(p->right, q->left);
+        return (p -> val == q -> val) 
+            && checkSymmetric(p -> left, q -> right) 
+            && checkSymmetric(p -> right,  q -> left);
     }
     bool isSymmetric(TreeNode* root) {
-        if(root == nullptr) return true;
-        return isValid(root->left, root->right);
-    }
+        if(root == nullptr)
+            return false;
+        return checkSymmetric(root -> left, root -> right);
+    }  
 };
