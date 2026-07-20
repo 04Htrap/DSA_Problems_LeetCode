@@ -1,3 +1,5 @@
+//TIME COMPLEXITY O(V^2)
+//SPACE COMPLEXITY O(V)
 class Solution {
 public:
     void dfs(int node, vector<vector<int>> &isConnected, vector<bool> &visited) {
