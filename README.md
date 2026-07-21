@@ -570,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/04Htrap/DSA_Problems/tree/master/1148-article-views-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/04Htrap/DSA_Problems/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/04Htrap/DSA_Problems/tree/master/1258-article-views-i) |
+| [1683-invalid-tweets](https://github.com/04Htrap/DSA_Problems/tree/master/1683-invalid-tweets) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/04Htrap/DSA_Problems/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/04Htrap/DSA_Problems/tree/master/1757-recyclable-and-low-fat-products) |
 | [1801-average-time-of-process-per-machine](https://github.com/04Htrap/DSA_Problems/tree/master/1801-average-time-of-process-per-machine) |
