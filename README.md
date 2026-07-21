@@ -572,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/04Htrap/DSA_Problems/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/04Htrap/DSA_Problems/tree/master/1148-article-views-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/04Htrap/DSA_Problems/tree/master/1245-user-activity-for-the-past-30-days-i) |
+| [1251-average-selling-price](https://github.com/04Htrap/DSA_Problems/tree/master/1251-average-selling-price) |
 | [1258-article-views-i](https://github.com/04Htrap/DSA_Problems/tree/master/1258-article-views-i) |
 | [1280-students-and-examinations](https://github.com/04Htrap/DSA_Problems/tree/master/1280-students-and-examinations) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/04Htrap/DSA_Problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
