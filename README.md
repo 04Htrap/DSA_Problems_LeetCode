@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/04Htrap/DSA_Problems/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/04Htrap/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/04Htrap/DSA_Problems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/04Htrap/DSA_Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/04Htrap/DSA_Problems/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/04Htrap/DSA_Problems/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/04Htrap/DSA_Problems/tree/master/0125-valid-palindrome) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/04Htrap/DSA_Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/04Htrap/DSA_Problems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/04Htrap/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/04Htrap/DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -701,4 +703,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/04Htrap/DSA_Problems/tree/master/0547-number-of-provinces) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/04Htrap/DSA_Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
